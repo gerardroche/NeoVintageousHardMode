@@ -1,19 +1,19 @@
-# Copyright (C) 2018-2023 The NeoVintageous Team (NeoVintageous).
+# Copyright (C) 2023 Gerard Roche
 #
-# This file is part of NeoVintageous.
+# This file is part of NeoVintageousHardMode.
 #
-# NeoVintageous is free software: you can redistribute it and/or modify
+# NeoVintageousHardMode is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
 # (at your option) any later version.
 #
-# NeoVintageous is distributed in the hope that it will be useful,
+# NeoVintageousHardMode is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with NeoVintageous.  If not, see <https://www.gnu.org/licenses/>.
+# along with NeoVintageousHardMode.  If not, see <https://www.gnu.org/licenses/>.
 
 import traceback
 
